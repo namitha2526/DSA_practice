@@ -1,4 +1,5 @@
-1###3461-check-if-digits-are-equal-in-string-after-operations
+1 
+###3461-check-if-digits-are-equal-in-string-after-operations
 class Solution(object):
     def hasSameDigits(self, s):
         """
@@ -11,7 +12,8 @@ class Solution(object):
         return digits[0] == digits[1]
 
 ###
-2###
+2
+###
 nums =[1,2,3,1,2,3]
 k=2
 def containsNearbyDuplicate(nums, k):
